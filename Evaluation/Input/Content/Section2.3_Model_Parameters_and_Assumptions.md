@@ -8,7 +8,7 @@ The synthesis rate was modelled as a zero-order infusion over one year ([Mochizu
 
 Coproporphyrin-I is highly bound to plasma proteins (>99 %) (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)). A value of 0.66% was used in this PBPK model for `Fraction unbound (plasma, reference value)`. The major binding partner was set to albumin (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
-An important parameter influencing the resulting volume of distribution is lipophilicity. The reported logP value were 2.53 (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)) which was used in this model.
+An important parameter influencing the resulting volume of distribution is lipophilicity. The reported logP value of  2.53 (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)) is used in this model.
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim standard`.
 
