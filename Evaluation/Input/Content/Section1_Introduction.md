@@ -9,6 +9,6 @@ The clinical data included both baseline and drug-drug interaction (DDI) studies
 The presented model includes the following features:
 
 - transport by OATP1B1/B3,
-- transport by BCRP
+- transport by BCRP (MRP2)
 - renal clearance by glomerular filtration,
 - intracellular liver synthesis modeled as a zero-order infusion.
