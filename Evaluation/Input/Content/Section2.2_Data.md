@@ -29,7 +29,7 @@ The following publications were found in adults for model building:
 | [Zhang 2020](#5-references)   | Baseline and DDI plasma PK profiles in healthy subjects of Coproporphyrin-I|
 
 
-The following dosing scenarios were simulated and compared to respective data for model verification, see the OATP1B1/3-DDI qualification report for model performance:
+The following dosing scenarios were simulated and compared to respective data for model verification:
 
 | Scenario                                                     | Data reference                       |
 | ------------------------------------------------------------ | ------------------------------------ |
