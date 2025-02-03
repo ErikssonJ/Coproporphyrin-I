@@ -1,8 +1,8 @@
 ### 2.3.1 Absorption
 
-The parameter value for  `Specific intestinal permeability`  was set to 0 to not include intestinal reabsorption. The solubility was obtained from DrugBank (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data))
+The parameter value for  `Specific intestinal permeability`  was set to 0 to not include intestinal reabsorption. This was informed by non-successful parameter identification's going to very low values and fixing the parameter to the calculated one resulted in unreasonable fits and the fraction excreted to feces was not consistent with literature ([Section 2.2.1](#221-in-vitro-and-physicochemical-data)). The solubility was obtained from DrugBank (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
-The synthesis rate was modelled as a zero-order infusion over one year ([Mochizuki 2022](#5-references)). 
+The synthesis rate was modelled as a zero-order infusion over one year into intracellularly in the liver. This was informed by first modelling a synthesis rate in MoBi according to the value stated in literature and then translating it into a zero-order infusion in PK-Sim ([Mochizuki 2022](#5-references)). 
 
 ### 2.3.2 Distribution
 
@@ -24,7 +24,7 @@ The OATP1B1 expression profile is based on high-sensitive real-time RT-PCR ([Nis
 
 The BCRP expression profiles isbased on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
-Additionally, renal clearance was set to 1 according to literature (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
+Additionally, glomerular filtration rate fraction was set to 1 as this describes the observed renal clearance rate in accordance to literature (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
 
 ### 2.3.4 Automated Parameter Identification
