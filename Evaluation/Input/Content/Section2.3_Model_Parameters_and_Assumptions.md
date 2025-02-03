@@ -14,7 +14,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### 2.3.3 Metabolism and Elimination
 
-Two transport protein was implemented into the model via Michaelis-Menten kinetics 
+Two transport proteins were implemented into the model via Michaelis-Menten kinetics - OATP1B1 and BCRP.
 
 * OATP1B1
 
