@@ -10,7 +10,7 @@ Coproporphyrin-I is highly bound to plasma proteins (>99 %) (see [Section 2.2.1]
 
 An important parameter influencing the resulting volume of distribution is lipophilicity. The reported logP value of  2.53 (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)) is used in this model.
 
-After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim standard`.
+The partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim standard` was selected as distribution calculation methods.
 
 ### 2.3.3 Metabolism and Elimination
 
