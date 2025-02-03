@@ -14,15 +14,15 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### 2.3.3 Metabolism and Elimination
 
-Two transport proteins were implemented into the model via Michaelis-Menten kinetics - OATP1B1 and BCRP (MRP2).
+Two transport proteins were implemented into the model via Michaelis-Menten kinetics - OATP1B1 and MRP2.
 
 * OATP1B1
 
 The OATP1B1 expression profile is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2013](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
-* BCRP (MRP2 in the model)
+* MRP2
 
-The BCRP expression profiles isbased on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for OATP1B1 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The BCRP expression profiles isbased on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for MRP2 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)). Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 Additionally, glomerular filtration rate fraction was set to 1 as this describes the observed renal clearance rate in accordance to literature (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
@@ -34,7 +34,7 @@ The following parameters were optimized by fitting the model to the data:
 | Model Parameter                | 
 | ------------------------------ | 
 | `kcat` (OATP1B1)               | 
-| `kcat` (BCRP)                  | 
+| `kcat` (MRP2)                   | 
 
 
 
