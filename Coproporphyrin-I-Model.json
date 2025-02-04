@@ -2331,8 +2331,8 @@
           ]
         }
       ],
-      "CalculationMethods": [
-        "Cellular partition coefficient method - PK-Sim Standard",
+     "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
         "Cellular permeability - PK-Sim Standard"
       ],
       "Parameters": [
