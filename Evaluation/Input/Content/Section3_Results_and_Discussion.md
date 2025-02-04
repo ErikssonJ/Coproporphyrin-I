@@ -7,6 +7,8 @@ The model was built and evaluated covering data from studies including in partic
 
 The model quantifies syntethis of Coproporphyrin-I in the liver, excretion via urine through glomerular filtration, influx to liver via OATP1B1/1B3 and excretion to bile via MRP2.
 
+Of note, the suggested workflow when assessing DDIs using Coproporphyrin-I is to re-estimate the baseline Coproporphyrin-I for the specific study as the baseline will vary across studies. 
+
 The next sections show:
 
 1. the final model input parameters for the building blocks: [Section 3.1](#31-pitavastatin-final-input-parameters).
