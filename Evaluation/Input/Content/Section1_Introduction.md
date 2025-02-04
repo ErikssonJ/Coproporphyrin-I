@@ -1,4 +1,4 @@
-Coproporphyrin-I  is an endogenous biomarker for OATP1B1 transport, as this is the main route of excretion of Coproporphyrin-I in combination with elimination via BCRP to the bile. In addition, a smaller fraction of Coproporphyrin-I is excreted through urine.
+Coproporphyrin-I is an endogenous biomarker for OATP1B1 transport, as this is the main route of excretion of Coproporphyrin-I in combination with elimination via MRP2 to the bile. In addition, a smaller fraction of Coproporphyrin-I is excreted through urine.
 
 This Coproporphyrin-I model is intended to be used as an endogenous marker to estimate the inhibiton constants for OATP1B1 perpetrators.
 
@@ -9,6 +9,6 @@ The clinical data included both baseline and drug-drug interaction (DDI) studies
 The presented model includes the following features:
 
 - transport by OATP1B1/B3,
-- transport by BCRP (MRP2)
+- transport by MRP2
 - renal clearance by glomerular filtration,
 - intracellular liver synthesis modeled as a zero-order infusion.
