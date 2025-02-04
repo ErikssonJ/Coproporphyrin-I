@@ -149,7 +149,7 @@
                     "GMFE",
                     "Measure"
                 ],
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "PlotType": "predictedVsObserved",
                 "Groups": [
                     {
                         "Caption": "Coproporphyrin-I baseline",
