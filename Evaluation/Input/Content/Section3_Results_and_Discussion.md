@@ -5,7 +5,7 @@ The model was built and evaluated covering data from studies including in partic
 * baseline endogenous Coproporphyrin-I data.
 * DDIs with OATP1B1 perpetrators rifampicin and probenecid (in OATP1B1/3-DDI qualification report).
 
-The model quantifies syntethis of Coproporphyrin-I in the liver, excretion via urine through glomerular filtration, influx to liver via OATP1B1/1B3 and excretion to bile via BCRP.
+The model quantifies syntethis of Coproporphyrin-I in the liver, excretion via urine through glomerular filtration, influx to liver via OATP1B1/1B3 and excretion to bile via MRP2.
 
 The next sections show:
 
