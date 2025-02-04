@@ -27,7 +27,7 @@ The model has then been evaluated by simulating clinical studies and comparing w
 The presented model includes the following features:
 
 - transport by OATP1B1/B3,
-- transport by BCRP
+- transport by MRP2
 - renal clearance by glomerular filtration,
 - intracellular liver synthesis modeled as a zero-order infusion.
 
