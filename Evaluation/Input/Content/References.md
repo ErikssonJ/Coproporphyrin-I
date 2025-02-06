@@ -1,6 +1,8 @@
 
 **Bednarczy 2016** Bednarczyk D, Boiselle C. Organic anion transporting polypeptide (OATP)-mediated transport of coproporphyrins I and III. Xenobiotica. 2016 May 3;46(5):457-66.
 
+**Deo 2012** Deo AK, Prasad B, Balogh L, Lai Y, Unadkat JD. Interindividual variability in hepatic expression of the multidrug resistance-associated protein 2 (MRP2/ABCC2): quantification by liquid chromatography/tandem mass spectrometry. Drug metabolism and disposition: the biological fate of chemicals. 2012. 40(5):852–5
+
 **Drugbank** Knox C, Wilson M, Klinger CM, et al. DrugBank 6.0: the DrugBank Knowledgebase for 2024. Nucleic Acids Res. 2024 Jan 5;52(D1):D1265-D1275. doi: 10.1093/nar/gkad976
 
 **Gilibili 2017** Gilibili RR, Chatterjee S, Bagul P, Mosure KW, Murali BV, Mariappan TT, Mandlekar S, Lai Y. Coproporphyrin-I: a fluorescent, endogenous optimal probe substrate for ABCC2 (MRP2) suitable for vesicle-based MRP2 inhibition assay. Drug Metabolism and Disposition. 2017 Jun 1;45(6):604-11.
@@ -29,4 +31,3 @@
 
 **Zhang 2020** Zhang Y, Holenarsipur VK, Kandoussi H, Zeng J, Mariappan TT, Sinz M, Shen H. Detection of Weak Organic Anion–Transporting Polypeptide 1B Inhibition by Probenecid with Plasma-Based Coproporphyrin in Humans. Drug Metabolism and Disposition. 2020 Oct 1;48(10):841-8.
 
-**Deo 2012** Deo AK, Prasad B, Balogh L, Lai Y, Unadkat JD. Interindividual variability in hepatic expression of the multidrug resistance-associated protein 2 (MRP2/ABCC2): quantification by liquid chromatography/tandem mass spectrometry. Drug metabolism and disposition: the biological fate of chemicals. 2012. 40(5):852–5
