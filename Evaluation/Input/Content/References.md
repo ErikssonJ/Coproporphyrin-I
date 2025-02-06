@@ -29,4 +29,4 @@
 
 **Zhang 2020** Zhang Y, Holenarsipur VK, Kandoussi H, Zeng J, Mariappan TT, Sinz M, Shen H. Detection of Weak Organic Anion–Transporting Polypeptide 1B Inhibition by Probenecid with Plasma-Based Coproporphyrin in Humans. Drug Metabolism and Disposition. 2020 Oct 1;48(10):841-8.
 
-
+**Deo 2012** Deo AK, Prasad B, Balogh L, Lai Y, Unadkat JD. Interindividual variability in hepatic expression of the multidrug resistance-associated protein 2 (MRP2/ABCC2): quantification by liquid chromatography/tandem mass spectrometry. Drug metabolism and disposition: the biological fate of chemicals. 2012. 40(5):852–5
