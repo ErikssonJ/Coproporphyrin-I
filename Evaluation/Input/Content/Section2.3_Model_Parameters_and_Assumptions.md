@@ -22,7 +22,7 @@ The OATP1B1 expression profile is based on high-sensitive real-time RT-PCR ([Nis
 
 * MRP2
 
-The MRP2 expression profiles isbased on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for MRP2 was measured by liquid chromatography tandem mass spectroscopy ([Prasad 2014](#5-references)), i.e not according to the default implementation in PK-Sim. Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
+The MRP2 expression profiles is based on high-sensitive real-time RT-PCR ([Nishimura 2003](#5-references)). The reference concentration for MRP2 was measured by liquid chromatography tandem mass spectroscopy ([Deo 2012](#5-references)), i.e not according to the default implementation in PK-Sim. Transporter activity was described as saturable process following Michaelis-Menten kinetics, were the `Km` was taken from literature and the `kcat` was optimized based on clinical data (see [Section 2.3.4](#234-automated-parameter-identification)).
 
 Additionally, glomerular filtration rate fraction was set to 1 as this describes the observed renal clearance rate in accordance to literature (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
