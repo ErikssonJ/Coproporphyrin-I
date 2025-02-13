@@ -23,16 +23,11 @@ The following publications were found in adults for model building:
 
 | Publication                   | Arm / Treatment / Information used for model building        |
 | :---------------------------- | :----------------------------------------------------------- |
-| [Mori 2020](#5-references)  | Baseline PK profiles in healthy subjects of Coproporphyrin-I|
-| [Takehara 2018](#5-references) | Baseline and DDI plasma PK profiles in healthy subjects of Coproporphyrin-I|
-| [Lai 2016](#5-references)   | Baseline and DDI plasma PK profiles in healthy subjects of Coproporphyrin-I|
-| [Zhang 2020](#5-references)   | Baseline and DDI plasma PK profiles in healthy subjects of Coproporphyrin-I|
+| [Mori 2020](#5-references)  | Baseline plasma PK profiles in healthy subjects of Coproporphyrin-I|
+| [Takehara 2018](#5-references) | Baseline plasma PK profiles in healthy subjects of Coproporphyrin-I|
+| [Lai 2016](#5-references)   | Baseline plasma PK profiles in healthy subjects of Coproporphyrin-I|
+| [Zhang 2020](#5-references)   | Baseline plasma PK profiles in healthy subjects of Coproporphyrin-I|
 
 
-The following dosing scenarios were simulated and compared to respective data for model verification:
-
-| Scenario                                                     | Data reference                       |
-| ------------------------------------------------------------ | ------------------------------------ |
-| DDI with 150 mg, 300 mg and 600 mg rifampicin                    |[Mori 2020](#5-references)           |
 
 
